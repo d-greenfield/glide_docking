@@ -1,0 +1,4 @@
+DOCKING_METHOD   rigid
+GRIDFILE   /nfs/staff/dgreenfield/MurJ/HTVS/glide-grid_CL/glide-grid_CL.zip 
+LIGANDFILE   /nfs/staff/dgreenfield/emolecules/3D/screening/subsets/split/emol_parent-single-variant-subset_000.mae.gz 
+PRECISION   HTVS
